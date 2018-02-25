@@ -1,1 +1,0 @@
-<?php echo "<pre>AutoBot Activated</pre>"; ?>
