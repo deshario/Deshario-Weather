@@ -6,9 +6,6 @@ error_reporting(E_ERROR | E_PARSE);
 date_default_timezone_set("Asia/Bangkok");
 $result = array();
 
-
-//deshario_api=true& Dsunrise=true&&city={{City}}
-
 if (isset($_GET['deshario_api'])){
 
     $user_city = $_GET['city'];
